@@ -1,0 +1,4 @@
+[submodule "cloudlab2/public"]
+	path = cloudlab2/public
+	url = https://github.com/jonasbaliutis/jonasbaliutis.github.io.git
+	branch = main

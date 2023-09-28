@@ -1,0 +1,4 @@
+baseURL = 'https://jonasbaliutis.github.io/'
+languageCode = 'en-us'
+title = 'sveiki'
+theme = 'gists'
